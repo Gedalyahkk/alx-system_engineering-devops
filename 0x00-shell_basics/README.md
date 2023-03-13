@@ -1,2 +1,1 @@
-Writing the current directory path
-List of current directory
+Flder with permission commands
